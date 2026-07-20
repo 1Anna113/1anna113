@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Anna的学习笔记
 permalink: /about/
 ---
