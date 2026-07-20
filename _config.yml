@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shengbang Liu"
+title                    : "Anna的学习笔记"
 title_separator          : "-"
-name                     : &name "Shengbang Liu"
+name                     : &name "Anna"
 # description              : &description "To see the world,things dangerous to come to,to see behind walls,draw closer,to find each other and to feel.That is the meaning of life."
-url                      : https://liushb9.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://1Anna113.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "liushb9/liushb9.github.io"
+repository               : "1anna113.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,17 +22,17 @@ repository               : "liushb9/liushb9.github.io"
 author:
   # Biographic information
   avatar           : "profile1.png"
-  name             : "Shengbang Liu | 刘盛邦"
+  name             : "anna"
   # pronouns         : "he/him"  
   bio              : "I have loved the stars too fondly to be fearful of the night"
   location         : "Beijing, China"
-  employer         : "Sun Yat-sen University"
-  uri              : # URL
-  email            : "liushengbang0209@gmail.com" 
+  employer         : "z"
+  uri              : https://1Anna113.github.io
+  email            : "zh070320@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=21gTfmYAAAAJ&hl=zh-CN&oi=ao"
+  googlescholar    : 
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "liushb9"
+  github           : "1Anna113"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,14 +66,14 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "ShengbangLiu"
+  twitter          : 
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "ShengbangLiu"
+  youtube          : 
   zhihu            : # Username
-  rednote          : "https://www.xiaohongshu.com/user/profile/63100a69000000001200fff3"
+  rednote          : 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
